@@ -39,7 +39,7 @@ O sistema foi arquitetado focando em boas práticas, como separação de respons
 
 ## 📹 Demonstração
 
-[VÍDEOS DEMONSTRATIVOS](https://drive.google.com/drive/folders/1qE-EXc5GjTAwuHnYpk39vP5hPog4yL0M?usp=sharing)]
+[VÍDEOS DEMONSTRATIVOS](https://drive.google.com/drive/folders/1qE-EXc5GjTAwuHnYpk39vP5hPog4yL0M?usp=sharing)
 
 ---
 
