@@ -66,6 +66,7 @@ dotnet restore
 
 # Rode o projeto (O EF Core criará o banco automaticamente se configurado)
 dotnet run
+
 A API estará disponível em: http://localhost:5166 O Swagger estará em: http://localhost:5166/swagger
 
 ### 3.Rodando o Frontend (Web)# Em outro terminal, entre na pasta Web
@@ -76,5 +77,6 @@ npm install
 
 # Rode o servidor de desenvolvimento
 npm run dev
+
 O site estará disponível em: http://localhost:5173
 
