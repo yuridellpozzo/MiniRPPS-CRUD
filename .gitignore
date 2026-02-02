@@ -1,0 +1,11 @@
+# Lixo do .NET
+bin/
+obj/
+.vscode/
+.idea/
+appsettings.Development.json
+
+# Lixo do React
+node_modules/
+dist/
+.env
